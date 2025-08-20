@@ -5,7 +5,6 @@ on:
   push:
     branches: [main, master] #Setting on Push to main branch, run our jobs
 
-
 jobs: #The things we want to happen on push
 
   build:
