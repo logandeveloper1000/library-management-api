@@ -4,7 +4,7 @@ info:
   title: "Library API"
   description: "API to manage a Library System"
   version: "1.0.0"
-host: "library-management-api-aw5f.onrender.com" #working on local host
+host: "library-management-api-ob5w.onrender.com" #working on local host
 schemes:
   - "https"
 consumes:
