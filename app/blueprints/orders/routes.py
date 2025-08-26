@@ -1,4 +1,5 @@
 # app/blueprints/orders/routes.py
+
 from flask import json, request, jsonify
 from app.blueprints.orders import orders_bp
 from app.blueprints.orders.schemas import order_schema, orders_schema, create_order_schema, receipt_schema
